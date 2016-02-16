@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import GoogleMaps
 
 class MapViewController: UIViewController {
     @IBOutlet weak var menuButton:UIBarButtonItem!
